@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello, GitHub! 👋
 
-<!--
-**ethantrent/ethantrent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ethan Trent, a student at Brigham Young University-Idaho interested in Software Engineering with an emphasis in Full-Stack Development. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm currently learning web development utilizing HTML and CSS to develop websites. I am also learning about Databases.
+- My goal is to become proficient in Java, JavaScript, and other languages to contribute to bigger personal projects.
+
+## Technologies and Tools
+
+- Proficient in: Python, HTML, CSS, MySQL
+- Skills: Leadership, Team Management, Communication, Adept
+
+## Let's Connect!📫
+
+- Here is my [LinkedIn](https://www.linkedin.com/in/ethantrent/) profile
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
