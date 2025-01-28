@@ -14,6 +14,6 @@ I'm Ethan Trent, a student at Brigham Young University-Idaho interested in Softw
 
 ## Let's Connect!📫
 
-- Here is my [LinkedIn](https://www.linkedin.com/in/ethantrent/) profile
+- Here is my LinkedIn profile: https://www.linkedin.com/in/ethantrent/
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
