@@ -7,6 +7,9 @@ I'm Ethan Trent, a student at Brigham Young University-Idaho interested in Softw
 - I'm currently learning web development utilizing HTML and CSS to develop websites. I am also learning about Databases.
 - My goal is to become proficient in Java, JavaScript, and other languages to contribute to bigger personal projects.
 
+## Projects
+
+
 ## Technologies and Tools
 
 - Proficient in: Python, HTML, CSS, MySQL
