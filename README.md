@@ -12,7 +12,7 @@ I'm Ethan Trent, a student at Brigham Young University-Idaho interested in Softw
 
 ## Technologies and Tools
 
-- Proficient in: Python, HTML, CSS, MySQL
+- Proficient in: Python, C#, JavaScript
 - Skills: Leadership, Team Management, Communication, Adept
 
 ## Let's Connect!📫
