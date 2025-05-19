@@ -1,19 +1,21 @@
 ## Hello, GitHub! 👋
 
-I'm Ethan Trent, a student at Brigham Young University-Idaho interested in Software Engineering with an emphasis in Full-Stack Development. Welcome to my GitHub profile!
+I'm Ethan Trent, a student at Brigham Young University-Idaho studying Software Engineering with an emphasis in Full-Stack Development. Welcome to my GitHub profile!
 
 ## About Me
 
 - I'm currently learning web development utilizing HTML and CSS to develop websites. I am also learning about Databases.
-- My goal is to become proficient in Java, JavaScript, and other languages to contribute to bigger personal projects.
+- I aim to become proficient in Java, JavaScript, and other languages to contribute to bigger personal projects.
 
 ## Projects
 
 
-## Technologies and Tools
+## Skills
 
-- Proficient in: Python, C#, JavaScript
-- Skills: Leadership, Team Management, Communication, Adept
+- Languages: Java, Python, C#, JavaScript, SQL
+- Developer Tools & Technologies: HTML, CSS, GitHub, Git, AWS, MySQL, Jira
+- Frameworks: Spring Boot, Node.js, React, ASP.NET
+
 
 ## Let's Connect!📫
 
