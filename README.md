@@ -4,8 +4,8 @@ I'm Ethan Trent, a student at Brigham Young University-Idaho studying Software E
 
 ## About Me
 
-- I'm currently learning web development utilizing HTML and CSS to develop websites. I am also learning about Databases.
-- I aim to become proficient in Java, JavaScript, and other languages to contribute to bigger personal projects.
+- Outside of software engineering and school, I love lifting! I'm passionate about nutrition and training, my original plan was to become a personal trainer/nutritionist.
+- On top of that, my wife and I enjoy exploring the world through traveling, going on hikes, etc. We also enjoy the other side of the spectrum, with staying inside and enjoying our time together.
 
 ## Projects
 
