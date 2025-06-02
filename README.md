@@ -29,7 +29,7 @@ I'm a Software Engineering student at **Brigham Young University - Idaho**, pass
 
 ### 📚 Projects
 
-- **IBC Marketplace** – Full-stack e-Commerce platform to host BYU-I's Integrated Business Core program to assist students in product sales.
+- **IBC Marketplace** – Full-stack e-Commerce platform to host BYU-I's Integrated Business Core program and assist students in product sales.
 - **U2** – Developed end-to-end billing modules. **Currently in development.**
 
 
