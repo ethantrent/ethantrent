@@ -28,15 +28,15 @@ I'm a Software Engineering student at **Brigham Young University - Idaho**, pass
 
 ### 📚 Projects
 
-- **IBC Marketplace** – Full-stack e-Commerce platform using Java, Spring Boot, React, AWS. Integrated secure payments with Stripe API.
-- **Utility Billing SaaS** – Developed end-to-end billing modules (TypeScript, React, Node.js, PostgreSQL), automating 100% of test transactions. Currently in development.
+- **IBC Marketplace** – Full-stack e-Commerce platform to host BYU-I's Integrated Business Core program to assist students in product sales.
+- **U2** – Developed end-to-end billing modules. **Currently in development.**
 
 
 ---
 
 ### 👥 Leadership & Initiatives
-- **Founder, Coding Interviews Club** – Helping students prepare for technical interviews with a 40% internship placement rate.
-- **Hackathon Coordinator** – Organized and managed a department-wide hackathon event for 300+ students, securing sponsorships from Verizon and GitHub.
+- **Founder & President, Coding Interviews Society** – Helping students prepare for technical interviews and increase internship placement rate.
+- **Hackathon Coordinator** – Organized and managed a department-wide hackathon event for students.
 
 ---
 
