@@ -24,14 +24,13 @@ I'm a Software Engineering student at **Brigham Young University - Idaho**, pass
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-#
+---
 
-### Projects
+### 📚 Projects
 
 - **IBC Marketplace** – Full-stack e-Commerce platform using Java, Spring Boot, React, AWS. Integrated secure payments with Stripe API.
 - **Utility Billing SaaS** – Developed end-to-end billing modules (TypeScript, React, Node.js, PostgreSQL), automating 100% of test transactions. Currently in development.
 
-#
 
 ---
 
@@ -47,7 +46,7 @@ I'm a Software Engineering student at **Brigham Young University - Idaho**, pass
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
-#
+---
 
 ### Let's Connect!📫
 
