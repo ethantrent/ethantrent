@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Ethan Trent
 
-**`Student Software Engineer @ BYU-I`**
+**`Software Engineer | Full-Stack Developer`**
 
-I'm a full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I'm a Software Engineering student at **Brigham Young University - Idaho**, passionate about building scalable web applications and cloud-native solutions. With experience in **full-stack development**, **cloud infrastructure**, and **SaaS platforms**, I enjoy tackling complex problems and continuously learning to deliver impactful software.
 
 ---
 
@@ -28,9 +28,18 @@ I'm a full-stack developer building my version of the digital world one step at 
 
 ### Projects
 
-Coming Soon
+- **IBC Marketplace** – Full-stack e-Commerce platform using Java, Spring Boot, React, AWS. Integrated secure payments with Stripe API.
+- **Utility Billing SaaS** – Developed end-to-end billing modules (TypeScript, React, Node.js, PostgreSQL), automating 100% of test transactions. Currently in development.
 
 #
+
+---
+
+### 👥 Leadership & Initiatives
+- **Founder, Coding Interviews Club** – Helping students prepare for technical interviews with a 40% internship placement rate.
+- **Hackathon Coordinator** – Organized and managed a department-wide hackathon event for 300+ students, securing sponsorships from Verizon and GitHub.
+
+---
 
 ### 📊 Stats
 
@@ -42,6 +51,6 @@ Coming Soon
 
 ### Let's Connect!📫
 
-- Here is my LinkedIn profile: https://www.linkedin.com/in/ethantrent/
+- LinkedIn Profile: https://www.linkedin.com/in/ethantrent/
 
-Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+Feel free to explore my repositories, and don't hesitate to reach out.
