@@ -33,7 +33,7 @@ I'm a Software Engineering student at **Brigham Young University - Idaho**, pass
 - **U2-QBO** – Developing a Utility Billing and Property Management application. **Currently in development.**
 - **Connect Four: RL** - Developed a Deep Q-Network agent to learn and play the popular game "Connect Four."
 
-
+- **Portfolio**: https://ethantrent.github.io/portfolio/
 
 ---
 
