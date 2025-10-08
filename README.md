@@ -38,8 +38,7 @@ I'm a Software Engineering student at **Brigham Young University - Idaho**, pass
 ---
 
 ### 👥 Leadership & Initiatives
-- **Founder & President, Coding Interviews Society** – Helping students prepare for technical interviews and increase internship placement rate.
-- **Hackathon Coordinator** – Organized and managed a department-wide hackathon event for students.
+- **Coding Interviews Society** – Founder and current President. Helping over 40+ active students prepare for technical interviews and increase internship placement rate.
 
 ---
 
