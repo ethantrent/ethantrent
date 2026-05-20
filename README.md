@@ -2,7 +2,7 @@
 
 **`Software Engineer | AI/ML & Product`**
 
-I'm a Software Engineering student at **Brigham Young University - Idaho**, passionate about building AI/ML full-stack applications.
+I'm a Software Engineering student at **Brigham Young University - Idaho**, passionate about building AI/ML applications.
 Outside of my coursework and tech career, I'm a fitness enthusiast who enjoys lifting and learning about exercise, nutrition, and overall wellness.
 
 ---
@@ -14,8 +14,6 @@ Outside of my coursework and tech career, I'm a fitness enthusiast who enjoys li
 <img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img align="left" alt="Scikit-Learn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -30,16 +28,16 @@ Outside of my coursework and tech career, I'm a fitness enthusiast who enjoys li
 
 ### 📚 Projects
 
-- **IBC Marketplace** – Full-stack e-Commerce platform to host BYU-I's Integrated Business Core program and assist students in product sales.
-- **U2-QBO** – Developing a Utility Billing and Property Management application. **Currently in development.**
-- **Connect Four: RL** - Developed a Deep Q-Network agent to learn and play the popular game "Connect Four."
+- **U²** – Unified Utility Billing and Property Management. **Currently in development.**
+- **IBC Marketplace** – e-Commerce platform to host BYU-I's Integrated Business Core program and assist students in product sales.
+- **Connect Four: RL** - Deep Q-Network agent to learn and play "Connect Four."
 
-- **Portfolio**: https://ethantrent.github.io/portfolio/
+- **Portfolio**: [https://ethantrent.github.io/portfolio/](https://ethantrent.github.io/)
 
 ---
 
 ### 👥 Leadership & Initiatives
-- **Coding Interviews Society** – Founder and current President. Helping over 40+ active students prepare for technical interviews and increase internship placement rate.
+- **Coding Interviews Society** – Founder and former President. Helped over 40+ active students prepare for technical interviews and increase internship placement rate.
 
 ---
 
