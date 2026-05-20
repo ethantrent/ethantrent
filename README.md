@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Ethan Trent
 
-**`Software Engineer | AI/ML & Full-Stack Developer`**
+**`Software Engineer | AI/ML & Product`**
 
 I'm a Software Engineering student at **Brigham Young University - Idaho**, passionate about building AI/ML full-stack applications.
 Outside of my coursework and tech career, I'm a fitness enthusiast who enjoys lifting and learning about exercise, nutrition, and overall wellness.
